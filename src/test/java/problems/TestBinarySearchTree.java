@@ -1,5 +1,6 @@
-package model;
+package problems;
 
+import model.Node;
 import org.junit.Before;
 import org.junit.Test;
 

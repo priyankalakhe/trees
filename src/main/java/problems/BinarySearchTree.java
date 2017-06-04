@@ -1,5 +1,6 @@
-package model;
+package problems;
 
+import model.Node;
 import sun.reflect.generics.reflectiveObjects.NotImplementedException;
 
 import static com.google.common.primitives.Ints.max;
